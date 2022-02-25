@@ -16,11 +16,9 @@ namespace IterationStatements
             //-----START HERE------------------------------------------
             //Create a variable of type int and name it num
             //initialize the variable with a value of 0
+            int num = 0;
 
-            var num = 0;
-
-
-
+            
             // Create a do-while loop and use the template below:
             do
             {
